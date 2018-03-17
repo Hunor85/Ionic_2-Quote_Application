@@ -6,4 +6,5 @@ The application has the following functionalities:
   - to add a quote to favorites
   - to remove a quote from favorites
   
+![Ionic3](http://www.hunor.dk/wp-content/uploads/2018/Ionic_3-Quote_App/Quote_App-1.png)  
 
