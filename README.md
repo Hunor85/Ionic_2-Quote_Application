@@ -1,2 +1,3 @@
 # Ionic_3-Quote_Application
-Personal Project - Ionic 3: Quote Application
+
+In this personal project I created a Quote Application with Ionic 3. 
