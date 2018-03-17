@@ -20,5 +20,9 @@ The application has the following functionalities:
 After downloading the project folder run 
 ```
 $ npm install
+``` 
+Then run 
 ```
-Run "ionic serve" to build and serve the application
+ionic serve
+```
+to build and serve the application
