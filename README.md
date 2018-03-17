@@ -17,12 +17,12 @@ The application has the following functionalities:
 2. Run "ionic serve" to build and serve the application
 
 ### How to use these files:
-After downloading the project folder run 
+After downloading the project folder install the required packages with the command
 ```
 $ npm install
 ``` 
-Then run 
+Then build and serve the app with the command
 ```
-ionic serve
+$ ionic serve
 ```
-to build and serve the application
+
