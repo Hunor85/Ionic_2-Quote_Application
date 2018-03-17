@@ -15,3 +15,10 @@ The application has the following functionalities:
 ### How to use these files:
 1. After downloading the project folder run "npm install" to install all required packages
 2. Run "ionic serve" to build and serve the application
+
+### How to use these files:
+After downloading the project folder run 
+```
+$ npm install
+```
+Run "ionic serve" to build and serve the application
