@@ -1,6 +1,6 @@
-# Ionic_3-Quote_Application
+# Ionic_2-Quote_Application
 
-In this personal project I created a Quote Application with Ionic 3. 
+In this personal project I created a Quote Application with Ionic 2. 
 The application has the following functionalities:
 <br/>
 - to choose a quote from a given category 
