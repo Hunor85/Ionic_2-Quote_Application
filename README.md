@@ -1,6 +1,6 @@
 # Ionic 2 - Quote Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.<br/>
 In this personal project I created a Quote Application with Ionic 2. 
 The application has the following functionalities:
 <br/>
